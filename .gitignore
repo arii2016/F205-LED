@@ -1,0 +1,11 @@
+/Debug
+/Release
+/.settings/language.settings.xml
+/.vscode/ipch/
+env/
+
+*.pyc
+*.old
+*.log
+.DS_Store
+Thumbs.db
